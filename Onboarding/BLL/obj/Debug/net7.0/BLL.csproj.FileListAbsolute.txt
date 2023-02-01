@@ -1,0 +1,12 @@
+H:\repo\Onbording\Onboarding\BLL\bin\Debug\net7.0\BLL.deps.json
+H:\repo\Onbording\Onboarding\BLL\bin\Debug\net7.0\BLL.dll
+H:\repo\Onbording\Onboarding\BLL\bin\Debug\net7.0\BLL.pdb
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\BLL.dll
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\refint\BLL.dll
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\BLL.pdb
+H:\repo\Onbording\Onboarding\BLL\obj\Debug\net7.0\ref\BLL.dll
